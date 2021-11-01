@@ -5,7 +5,7 @@ painter = trtl.Turtle()
 scoreturtle = trtl.Turtle()
 counter = trtl.Turtle()
 score = 0
-timer = 5
+timer = 30
 counter_interval = 1000   
 timer_up = False
 scoreturtle.hideturtle()
