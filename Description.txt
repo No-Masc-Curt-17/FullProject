@@ -1,0 +1,3 @@
+Team: Jay and Nolan
+This game is a candy corn clicking game. You have 30 seconds to click as much candy corn as possible. Each time you click a piece of candy corn, it will give you a point. 
+The candy corn moves randomly every single second.
